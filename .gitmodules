@@ -1,0 +1,3 @@
+[submodule "src/module/module1"]
+	path = src/module/module1
+	url = https://github.com/compimprove/submodule_example
